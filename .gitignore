@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 atlassian-api-venv
+.DS_Store
